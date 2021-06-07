@@ -1,2 +1,2 @@
 # pet-shop-demo
-<https://www.trufflesuite.com/tutorial>
+Click here to see more <https://www.trufflesuite.com/tutorial>
